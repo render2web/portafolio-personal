@@ -2,7 +2,7 @@
 
 ![Portafolio Personal](https://render2web.com/github/portafolio-personal.jpg)
 
-![Todos Nuestros Cursos con Descuento:](https://render2web.com/promociones)
+🎁[Todos Nuestros Cursos con Descuento:](https://render2web.com/promociones)
 
 ## Descripción
 
@@ -28,7 +28,7 @@ Este proyecto es un portafolio personal creado para mostrar mis habilidades y pr
 ## Estructura del Proyecto
 
 ```plaintext
-personal-portfolio/
+portafolio-personal/
 ├── index.html
 ├── css/
 │   └── estilos.css
